@@ -12,11 +12,10 @@ function infoRequerida(numSube){
 
 if (pregunta == 1){
   infoRequerida();
+  cargaConsulta = prompt("¿Desea recargar su SUBE? \n PRESIONA: \n 1 para SI \n 2 para NO");
 } else if (pregunta == 2) {
-  alert("lo respetamos, adios");
+  alert("Lo respetamos, adios");
 } else;
-
-cargaConsulta = prompt("¿Desea recargar su SUBE? \n PRESIONA: \n 1 para SI \n 2 para NO");
 
 function realizarCarga(ingreso){
   ingreso = prompt("Ingrese la cantidad deseada");
@@ -32,5 +31,5 @@ function realizarCarga(ingreso){
 if(cargaConsulta == 1){
   realizarCarga();
 }else if (pregunta == 2) {
-  alert("lo respetamos, adios");
+  alert("Lo respetamos, adios");
 } else;
