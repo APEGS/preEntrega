@@ -1,0 +1,116 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 500;
+}
+
+body {
+    background-color: rgb(15, 15, 15);
+    color: #ffffff;
+    text-align: center;
+}
+
+h1 {
+    padding: 10px 0;
+    font-size: 30px;
+}
+
+/*----------- CONTENEDORES -----------*/
+/*----------- CONTENEDORES -----------*/
+
+.contenedorContenedores {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+
+.contenedor {
+    background-color: cadetblue;
+    width: 30%;
+    margin-top: 1%;
+    height: 300px;
+    margin-left: 4%;
+    border-radius: 4px;
+}
+
+.titulos{
+    margin-bottom: 7%;
+}
+
+h2 {
+    margin-top: 10%;
+    margin-left: 3px;
+    font-size: 25px;
+}
+
+.cuentaSUBE {
+    display: none;
+}
+
+.cargaSube {
+    display: none;
+}
+
+.listado {
+    background-color: cadetblue;
+    padding-bottom: 2%;
+    border-radius: 4px;
+}
+
+/*----------- INPUTS -----------*/
+/*----------- INPUTS -----------*/
+
+.input {
+    width: 70%;
+    height: 35px;
+    border-radius: 4px;
+    border: none;
+    outline: transparent;
+}
+
+.listoBTN {
+    margin-top: 4%;
+    background-color: rgb(15, 15, 15);
+    color: #ffffff;
+    width: 40%;
+    height: 40px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.recargaBTN {
+    background-color: rgb(6, 68, 47);
+    color: #ffffff;
+    width: 40%;
+    height: 40px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.cerrarBTN {
+    background-color: #771b1b;
+    color: #ffffff;
+    width: 40%;
+    height: 40px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.comercialBox {
+    position: fixed;
+    top: 37%;
+    left: 7%;
+}
+
+.saldoActual {
+    display: none;
+}
+
+.mensajeError {
+    display: none;
+}
