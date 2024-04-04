@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+     <html>
+     <head>
+     <meta charset="utf-8">
+     <title></title>
+     <link rel="stylesheet" type="text/css" href="css/estilo.css">
+     <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+     <!-- <link rel="icon" type="images/png" href="images/logo.webp"> -->
+     </head>
+     <body class="mapa">
+      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3283.8461715028157!2d-58.372852723544575!3d-34.60805115772829!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95a3352cbe276f75%3A0xe16921ef0545f86d!2sCasa%20Rosada!5e0!3m2!1sen!2sar!4v1712138514648!5m2!1sen!2sar" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade">
+      </iframe>
+          <nav>
+            <p class="marca"><i>🗾<b> mapa.com</b></i></p>
+            <div class="nav-in">
+               <a class="nav-opt" id="navBtn" href="perfil.html">Perfil</a>
+               <a class="nav-opt" id="navBtn" href="comunidad.html">Comunidad</a>
+               <a class="nav-opt" id="sesionNavBtn" href="index.html">Cerrar sesión</a>
+            </div>
+          </nav>
+
+          <div class="cont-opt">
+            <button class="opcionesBTN" id="abrirSube" >Sube</button>
+            <button class="opcionesBTN" id="abrirTransportes" >Transportes</button>
+            <button class="opcionesBTN" id="abrirTurismo" >Turismo</button>
+            <button class="opcionesBTN" id="" >Top Recomendados</button>
+          </div>
+          <br>
+
+          <!-- <button id="btn">recorridos y frecuencia</button> -->
+
+
+      <!-------------------------- sube ---------------------------->
+      <!-------------------------- sube ---------------------------->
+
+        <div class="pop-center">
+          <div class="contenedor display" id="subeCont">
+
+            <button class="xBTN" id="x"><b>x</b></button>
+            <div class="" id="">
+              <div class="titulos">
+                <h2>SUBE</h2>
+              </div>
+        
+              <div class="" id="buscaCuentaSube">
+                <p>Ingresar número de sube</p>
+                <input type="number" placeholder=" Número de sube 123" class="input" id="inputSubeNumero">
+                <p class="mensajeERROR"></p>
+                <button class="listoBTN" id="btnListo">Listo</button>
+                <button class="listoBTN" id="btnRecordar">Iniciar Sesión Guardada</button>
+                <p class="mensajeError" id="mensajeErrorRecordar">Aún no ha guardado ninguna sesión</p>
+              </div>
+        
+              <div class="cuentaSUBE" id="subeAccount">
+                <div class="" id="subeNumero"></div>
+                <div class="saldo" id="saldo"></div>
+                <div class="saldoActual" id="saldoActual"></div>
+                <button class="recargaBTN" id="btnRecarga">Recargar</button>
+                <button class="cerrarBTN" id="btnCerrarSube">Cerrar cuenta</button>
+              </div>
+        
+              <div class="cargaSube" id="cargaSube">
+                <p>Introduce valor de carga</p>
+                <input type="number" placeholder="Valor de recarga" class="input" id="inputRecarga">
+                <button class="recargaBTN" id="acreditarSubeBtn">Cargar</button>
+                <button class="cerrarBTN" id="olvidarBtn">Olvidar</button>
+              </div>
+        
+              <div class="comercialBox" id="comercial">
+                <p>Te recargamos y acreditamos en el acto</p>
+              </div>
+        
+            </div>
+
+          </div>
+        </div>
+
+      <!---------------------------- transportes ------------------------------->
+      <!---------------------------- transportes ------------------------------->
+
+        <div class="pop-center">
+          <div class="contenedor display" id="transCont"> 
+
+              <button class="xBTN" id="xx"><b>x</b></button>
+              <div class="titulos">
+                <h2>TRANSPORTES DISPONIBLES</h2>
+                <p>Ingresa las calles</p>
+              </div>
+      
+              <div id="buscaTransportes">
+                <p>Calle</p>
+                <input type="text" placeholder=" Calle" class="input" id="inputTramos">
+                <p>Intersección</p>
+                <input type="text" placeholder=" Intersección" class="input" id="inputAltura">
+                <button class="listoBTN" id="buscarTransportesBtn">Buscar</button>
+              </div>
+              
+              <div class="listado" id="lineas">
+                <div id="resultadoLineas"></div>
+                <button class="listoBTN" id="atrasTransporte">Atrás</button>
+              </div>
+      
+          </div>
+
+        </div>
+
+          <script src="js/main.js"></script>
+          <script src="js/mapa.js"></script>
+  
+     </body>
+     </html>

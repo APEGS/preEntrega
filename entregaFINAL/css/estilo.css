@@ -1,0 +1,603 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+:root {
+    --dayBG: rgb(235, 235, 235);
+    --colorBrand:rgb(58, 142, 145);
+    --colorBubbleBTN: rgb(32, 119, 122);
+    --brandDarker:rgb(29, 61, 61);
+    --classicBTN: cadetblue;
+    --colorFot: #a7a7a7;
+    --blanco: #fff;
+    --weight: 700;
+    --font: sans-serif;
+    --radiusBTN: 50px;
+    --radiusBTNflot: 58px;
+    /*------- MODO NOCTURNO -------*/
+    --nightBG: rgb(15, 15, 15);
+    --bgModNoct: /* #08081f */ #020202;
+    --letterModNoct: #fff;
+    --inputModNoct: #ffffff;
+}
+
+body {
+    background-color: var(--dayBG);
+    font-family: var(--font);
+    overflow-x: hidden;
+}
+
+nav {
+    background-color: var(--colorBrand);
+    color: var(--blanco);
+    height: 50px;
+    position: fixed;
+    width: 100%;
+    z-index: 2;
+    top: 0;
+    margin-bottom: 0%;
+}
+
+.marca {
+    position: relative;
+    top: 25%;
+    left: 4%;
+}
+
+.nav-in {
+    position: relative;
+    top: -7%;
+    left: 72%;
+}
+
+.nav-opt {
+    margin-left: 1%;
+}
+
+.navNot {
+    display: none;
+}
+
+.navLog {
+    display: block;
+}
+
+a {
+    text-decoration: none;
+    color: var(--blanco);
+}
+
+.closeSess {
+    background-color: var(--colorBrand);
+    color: #ffffff;
+    cursor: pointer;
+}
+
+.cont-opt {
+    margin-top: 2%;
+    margin-bottom: 4%;
+    width: 100%;
+}
+
+/*------------------------------------ INICIO --------------------------------------*/
+/*------------------------------------ INICIO --------------------------------------*/
+/*------------------------------------ INICIO --------------------------------------*/
+/*------------------------------------ INICIO --------------------------------------*/
+
+.total {
+    display: flex;
+    flex-direction: row;
+    display: flex;
+    flex-direction: column;
+}
+
+/*---- HALF A ----*/
+/*---- HALF A ----*/
+
+.half-a {
+    width: 45%;
+    margin-top: 7%;
+}
+
+.part-uno {
+    margin-top: 30%;
+    margin-bottom: 20%;
+    text-align: center;
+    margin-left: 4%;
+}
+
+.marcaBien {
+    font-size: 70px;
+    margin-bottom: 7%;
+}
+
+.part-dos {
+    background-color: var(--brandDarker);
+    padding: 7%;
+    width: 100%;
+    height: 310px;
+}
+
+h2 {
+    font-size: 28px;
+    margin-bottom: 7%;
+    color: var(--colorBrand);
+    text-align: center;
+}
+
+.comunidad-vistazo {
+    background-color: var(--colorBubbleBTN);
+}
+
+.pop-comunidad-contenedor {
+    display: flex;
+    flex-direction: row;
+}
+
+.notas-cont {
+    background-color: #fff;
+    width: 30%;
+    height: 30%;
+}
+
+.btn {
+    background-color: var(--colorBubbleBTN);
+    padding: 10px 30px;
+    color: var(--blanco);
+    border-radius: var(--radiusBTN);
+}
+
+/*---- HALF B ----*/
+/*---- HALF B ----*/
+
+.half-b {
+    background-color: var(--bgModNoct);
+    color: var(--letterModNoct);
+    width: 50%;
+    position: fixed;
+    z-index: 1;
+    right: 0%;
+    height: 100vh;
+    padding-top: 7%;
+}
+
+.inicioFORM {
+    display: none;
+}
+
+.regs-titu {
+    font-size: 30px;
+    margin-bottom: 4%;
+}
+
+.whole-form-cont {
+    margin: 7%;
+}
+
+label {
+    cursor: pointer;
+}
+
+.input-regs {
+    border: transparent /*1px solid var(--inputModNoct)*/;
+    background-color: var(--brandDarker);
+    width: 90%;
+    height: 40px;
+    margin-top: 4%;
+    margin-bottom: 4%;
+    border-radius: 4px;
+    line-height: 45px;
+    outline: none;
+    color: #fff;
+    padding-left: 7px;
+}
+
+::placeholder {
+    color: #020202;
+}
+
+.input-regs:focus {
+    background-color: rgb(42, 121, 124);
+    color: #fff;
+}
+
+.inputERROR{
+    border: #940000 solid 2px;
+}
+
+.inputRIGHT{
+    border: #00940c solid 2px;
+}
+
+form {
+    margin-bottom: 7%;
+}
+
+button {
+    border: none;
+}
+
+.regs-btn {
+    margin-top: 4%;
+    text-decoration: none;
+    color: #ffffff;
+    background-color: rgb(42, 121, 124);
+    padding: 10px 217px;
+    border-radius: 4px;
+    cursor: pointer;
+    border: none;
+}
+
+.ya-cont {
+    margin-top: 7%;
+}
+
+.in-btn {
+    text-decoration: dashed;
+    margin-top: 4%;
+    background-color: transparent;
+    color: var(--colorBrand);
+    font-size: 17px;
+    cursor: pointer;
+
+}
+
+.corr {
+    display: none;
+    font-size: 13px;
+    color: #a7a7a7;
+    margin-top: -2%;
+    margin-bottom: 4%;
+}
+
+.err {
+    display: block;
+}
+
+.q {
+    margin-top: 20%;
+}
+
+.llenaCampos {
+    color: #940000;
+}
+
+/*------------------------------------ MAPA --------------------------------------*/
+/*------------------------------------ MAPA --------------------------------------*/
+/*------------------------------------ MAPA --------------------------------------*/
+/*------------------------------------ MAPA --------------------------------------*/
+
+.show {
+    display: block;
+}
+
+.hide {
+    display: block;
+}
+
+iframe {
+    width: 100%;
+    position: fixed;
+    z-index: -7;
+    height: 100%;
+    opacity: 40%;
+    margin-top: 0%;
+}
+
+.cont-opt {
+    margin-top: 5%;
+}
+
+.pop-center {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.opcionesBTN {
+    background-color: var(--classicBTN);
+    color: #ffffff;
+    width: 150px;
+    height: 40px;
+    margin-left: 1%;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.mapa {
+    background-color: var(--bgModNoct);
+}
+
+/*------------- popups -------------*/
+/*------------- popups -------------*/
+
+.contenedor {
+    background-color: var(--classicBTN);
+    color: #ffffff;
+    text-align: center;
+    width: 30%;
+    margin-top: 1%;
+    height: 300px;
+    margin-left: 4%;
+    border-radius: 4px;
+    padding-bottom: 30px;
+}
+
+.display {
+    display: none;
+}
+
+.titulos{
+    margin-bottom: 7%;
+}
+
+.input {
+    width: 70%;
+    height: 35px;
+    border-radius: 4px;
+    border: none;
+    outline: transparent;
+    padding-left: 7px;
+}
+
+.errorINGRESO {
+    border: #940000 solid 2px;
+}
+
+.cuentaSUBE {
+    display: none;
+}
+
+.cargaSube {
+    display: none;
+}
+
+.listado {
+    background-color: var(--classicBTN);
+    padding-bottom: 2%;
+    border-radius: 4px;
+    display: none;
+}
+
+/*----------- botones ------------*/
+/*----------- botones ------------*/
+
+.xBTN {
+    margin-top: 2%;
+    margin-left: 83%;
+    background-color: var(--classicBTN);
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.listoBTN {
+    margin-top: 4%;
+    background-color: rgb(15, 15, 15);
+    color: #ffffff;
+    width: 40%;
+    height: 40px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.recargaBTN {
+    background-color: rgb(6, 68, 47);
+    color: #ffffff;
+    width: 40%;
+    height: 40px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.cerrarBTN {
+    background-color: #771b1b;
+    color: #ffffff;
+    width: 40%;
+    height: 40px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.result {
+    display: none;
+}
+
+.mensajeError {
+    display: none;
+}
+
+.comercialBox {
+    margin-top: 25%;
+    padding: 20px 0; 
+    animation-name: color;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+}
+
+@keyframes color {
+    0%   {background-color: var(--colorBrand);}
+    25%  {background-color: rgb(28, 183, 194);}
+    50%  {background-color: rgb(5, 148, 12);}
+    100% {background-color: rgb(177, 167, 26);}
+}
+
+/*------------------------------------ PERFIL --------------------------------------*/
+/*------------------------------------ PERFIL --------------------------------------*/
+/*------------------------------------ PERFIL --------------------------------------*/
+/*------------------------------------ PERFIL --------------------------------------*/
+
+.perfil {
+    margin-top: 10%;
+    margin-left: 7%;
+    margin-bottom: 20%;
+}
+
+.flex {
+    display: flex;
+    flex-direction: row;
+}
+
+.foto {
+    border-radius: 20%;
+    background-color: var(--colorFot);
+    width: 100px;
+    height: 100px;
+}
+
+.contPersona {
+    padding-top: 2%;
+    margin-left: 4%;
+}
+
+.nombreUsuario {
+    font-size: 25px;
+    color: #020202;
+}
+
+.user {
+    font-size: 18px;
+    color: #424242;
+}
+
+/*------------------------------------ COMUNIDAD --------------------------------------*/
+/*------------------------------------ COMUNIDAD --------------------------------------*/
+/*------------------------------------ COMUNIDAD --------------------------------------*/
+/*------------------------------------ COMUNIDAD --------------------------------------*/
+
+.contInteraccion {
+    margin-top: 7%;
+    margin-left: 4%;
+    width: 100%;
+}
+
+.contNotaBTN {
+    display: flex;
+    flex-direction: column;
+}
+
+.escritura-caja {
+    background-color: #e0e0e0;
+    width: 50%;
+    height: 100px;
+    border-radius: 4px;
+    border: none;
+    outline: none;
+    padding-left: 15px;
+}
+
+.escritura-caja::placeholder {
+    margin-top: 2%;
+    padding: 10px;
+}
+
+.flexRow {
+    display: flex;
+    flex-direction: row;
+}
+
+.redEmo {
+    background-color: #adadad;
+    width: 30px;
+    height: 30px;
+    border-radius: 20px;
+    position: relative;
+    top: 7px;
+    left: 67%;
+    cursor: pointer;
+}
+
+.cuadImg {
+    background-color: #adadad;
+    width: 30px;
+    height: 30px;
+    border-radius: 4px;
+    position: relative;
+    top: 7px;
+    left: 70%;
+    cursor: pointer;
+}
+
+.enviar {
+    color: #ffffff;
+    cursor: pointer;
+    background-color: var(--classicBTN);
+    width: 100px;
+    height: 40px;
+    border-radius: 4px;
+    position: relative;
+    left: 73%;
+}
+
+.optNotas {
+    background-color: #cecece;
+    width: 50%;
+}
+
+.contPageDisplay {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+
+.comNotes {
+    margin-top: 4%;
+}
+
+.notas {
+    margin-bottom: 4px;
+    padding: 15px;
+    width: 50%;
+    background-color: #e0e0e0;
+    border-bottom: #424242 1px solid;
+    cursor: pointer;
+}
+
+.inNote {
+    margin-top: 7px;
+    padding-bottom: 7px;
+    line-height: 20px;
+    font-size: 13px;
+}
+
+.publicidad {
+    width: 20%;
+    background-color: #424242;
+    height: 100vh;
+    animation-name: pubLight;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+    position: fixed;
+    right: 0;
+}
+
+.disPub {
+    display: flex;
+    flex-direction: column;
+    margin-top: 25%;
+    color: #fff;
+    font-size: 34px;
+    text-align: center;
+}
+
+.ir {
+    position: relative;
+    bottom: -50%;
+    left: 37px;
+    background-color: var(--bgModNoct);
+    width: 70%;
+    color: #ffffff;
+    border-radius: 4px;
+    height: 40px;
+    cursor: pointer;
+}
+
+@keyframes pubLight {
+    0%   {background-color: var(--colorBrand);}
+    25%  {background-color: rgb(28, 183, 194);}
+    50%  {background-color: rgb(5, 148, 12);}
+    100% {background-color: rgb(177, 167, 26);}
+}

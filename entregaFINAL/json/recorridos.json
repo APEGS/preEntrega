@@ -1,0 +1,3428 @@
+[
+   {
+      "linea":"1 A",
+      "barrios":"",
+      "puntas":"Primera Junta - Moron",
+      "tramos":[
+         "",
+         "",
+         "",
+         "",
+         ""
+      ],
+      "altura":[
+         ""
+      ]
+   },
+   {
+      "linea":"1 B",
+      "barrios":"",
+      "puntas":"Moron - Primera Junta",
+      "tramos":[
+         "Terminal Moron",
+         "Salta 283",
+         "Gral. Munilla 850",
+         "Int. Luis Gaeberler 960",
+         "Int. Luis Gaeberler 804",
+         "Gral. Donato Alvarez 687",
+         "Donato Alvarez 893",
+         "Dr. Ricardo Balbin",
+         "Ricardo Balbin 597",
+         "Ricardo Balbin 391",
+         "Ricardo Balbin 291",
+         "Ricardo Balbin 122",
+         "Avenida Presidente Juan Domingo Peron 3500",
+         "Juan Domingo Peron 3210",
+         "Juan Domingo Peron 3028",
+         "Juan Domingo Peron 2902",
+         "Lambaré",
+         "Juan Domingo Peron",
+         "Luis Güemes",
+         "Luis Güemes 452",
+         "Virrey Liniers",
+         "Chile",
+         "Florentino Ameghino",
+         "Emilio Mitre",
+         "Macho Vidal",
+         "9 De Julio",
+         "Leandro N. Alem",
+         "Dr. Gabriel Ardoino",
+         "Monteagudo",
+         "Segurola",
+         "Almirante O Connor",
+         "San Roque",
+         "Hipólito Yrigoyen",
+         "Carlos Pellegrini",
+         "Teodoro Plaza",
+         "Galileo",
+         "Juan Jose Paso",
+         "Castelli",
+         "General Paz",
+         "Av Rivadavia"
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"1 B",
+      "barrios":"",
+      "puntas":"Primera Junta - Moron",
+      "tramos":[
+         "Av Rivadavia",
+         "Colectora Gral. Paz",
+         "Santiago De Liniers",
+         "Francisco Madero",
+         "General Roca",
+         "Reconquista",
+         "Carlos Pellegrini",
+         "9 De Julio",
+         "Av. Gaona",
+         "Leandro N. Alem",
+         "Av. Presidente Peron",
+         "Dolores Prats",
+         "Dr. Ricardo Balbin",
+         "Dr. Guillermo Rawson",
+         "Constituyentes"
+      ],
+      "altura":[
+         "Juan José Paso"
+      ]
+   },
+   {
+      "linea":"2",
+      "barrios":"",
+      "puntas":"Lomas del Mirador - Liniers - Aduana - Costanera Sur",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"4 A",
+      "barrios":"",
+      "puntas":"Costanera Sur - Liniers - Lomas del Mirador - Correo Central",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"4 B",
+      "barrios":"",
+      "puntas":"Costanera Sur - Liniers - Lomas del Mirador - Correo Central",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"4 C",
+      "barrios":"",
+      "puntas":"Costanera Sur - Liniers - Lomas del Mirador - Correo Central",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"6",
+      "barrios":"",
+      "puntas":"Hospital Ferroviario - Retiro - Pompeya - Villa Soldati",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"7 A",
+      "barrios":"Retiro - Once - Parque Avellaneda - Barrio Samore",
+      "puntas":"Hospital Ferroviario - Parque Nicolás Avellaneda",
+      "tramos":[
+         "Fonrouge",
+         "Av Castañares",
+         "Escalada",
+         "Saraza",
+         "Mozart",
+         "Avenida Santiago de Compostela",
+         "Fernández",
+         "Av Perito Moreno",
+         "Dársena",
+         "Zuviria",
+         "Av Perito Moreno",
+         "Av Eva Perón",
+         "Avenida Varela",
+         "Avelino Díaz",
+         "Emilio Mitre",
+         "Avenida Asamblea",
+         "Avenida La Plata",
+         "Avenida San Juan",
+         "Colombres",
+         "Avenida Belgrano",
+         "La Rioja",
+         "Ecuador",
+         "Bartolomé Mitre",
+         "Talcahuano",
+         "Santiago del Estero",
+         "Hipólito Yrigoyen",
+         "Metrobús del Bajo Avenida La Rábida",
+         "Avenida Leandro N Alem",
+         "San Martín",
+         "Gilardo Gilardi",
+         "Avenida Doctor José María Ramos Mejía",
+         "Avenida Antártida Argentina",
+         "Avenida de los Inmigrantes",
+         "",
+         "",
+         ""
+      ],
+      "altura":[
+         "Zelarrayán",
+         "Autopista Teniente General Luis Dellepiane",
+         "colectora este Teniente General Luis Dellepiane",
+         "Zuviria",
+         "Mariano Acosta",
+         "viel",
+         "Avenida Doctor Ricardo Rojas",
+         "Avenida Antártida Argentina",
+         "Cabo Pablo Teodoro Fels",
+         ""
+      ]
+   },
+   {
+      "linea":"7 A",
+      "barrios":"",
+      "puntas":"Parque Nicolás Avellaneda - Hospital Ferroviario",
+      "tramos":[
+         "Av de los Inmigrantes",
+         "Avenida Antártida Argentina",
+         "Doctor José María Ramos Mejía"
+      ],
+      "altura":[
+         "Comodoro Pedro Zanni"
+      ]
+   },
+   {
+      "linea":"7 B",
+      "barrios":"Retiro - Once - Parque Avellaneda - Barrio Samore",
+      "puntas":"Hospital Ferroviario - Barrio Samoré",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"8 A",
+      "barrios":"",
+      "puntas":"Aeroparque Jorge Newbery (AEP) - Aeropuerto Internacional de Ezeiza (EZE) por Liniers - Av. Rivadavia",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"8 B",
+      "barrios":"",
+      "puntas":"Hospital Argerich - Mercado Central de Buenos Aires por Liniers - Av. Rivadavia",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"8 C",
+      "barrios":"",
+      "puntas":"Hospital Argerich - Estación Liniers por Rivadavia",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"8 D (ex linea 5)",
+      "barrios":"",
+      "puntas":"Terminal de Omnibus de Retiro - Barrio Piedrabuena (Eva Peron y Gral. Paz)",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"8 E (ex linea 5)",
+      "barrios":"",
+      "puntas":"Av. San Pedrito y Av. Rivadavia (Flores) - Barrio Piedrabuena (Eva Peron y Gral. Paz)",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"8 F",
+      "barrios":"",
+      "puntas":"Plaza de Mayo - Estación Liniers por Autopista 25 de Mayo",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"9",
+      "barrios":"",
+      "puntas":"Retiro - Obelisco - Constitucion - Villa Caraza",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"10",
+      "barrios":"",
+      "puntas":"Puente Pacifico - Palermo - Villa Dominico - Sarandi",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"12",
+      "barrios":"",
+      "puntas":"Puente Pueyrredon - Plaza Constitucion - Puente Pacifico - Palermo - Plaza Falucho",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"15",
+      "barrios":"",
+      "puntas":"Puente Uriburu - Barrancas de Belgrano - Benavidez - General Pacheco",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"17",
+      "barrios":"",
+      "puntas":"Facultad de Derecho - Wilde",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"19",
+      "barrios":"",
+      "puntas":"Plaza Miserere - Carapachay",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"20",
+      "barrios":"",
+      "puntas":"Retiro - Esteban Echeverria",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"21",
+      "barrios":"",
+      "puntas":"Puente La Noria - Liniers - Puente Saavedra - Vicente Lopez - Florida - Fabrica Ford - Tigre",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"22",
+      "barrios":"",
+      "puntas":"Retiro - Quilmes",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"23",
+      "barrios":"",
+      "puntas":"Retiro - Villa Soldati",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"24",
+      "barrios":"",
+      "puntas":"Villa del Parque - Cementario de Avellaneda - Wilde - Avellaneda",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"25",
+      "barrios":"",
+      "puntas":"Estacion Saenz Peña - La Boca",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"26",
+      "barrios":"",
+      "puntas":"Retiro - Barrio Rivadavia",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"28",
+      "barrios":"",
+      "puntas":"Retiro - Puente de La Noria - Puente Uriburu - Liniers - Puente Saavedra - Ciudad Universitaria",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"29",
+      "barrios":"",
+      "puntas":"La Boca - Estacion Rivadavia - Olivos - Parque Sarmiento",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"31",
+      "barrios":"",
+      "puntas":"Plaza Miserere - Nueva Pompeya - Ingeniero Budge - Av. Olimpo y Camino de Cintura",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"32",
+      "barrios":"",
+      "puntas":"Plaza Miserere - Lanus - Nueva Pompeya - Remedios de Escalada",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"33",
+      "barrios":"",
+      "puntas":"Ciudad Universitaria - Retiro - Monte Chingolo - Remedios de Escalada",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"34",
+      "barrios":"",
+      "puntas":"Liniers - Palermo - Hipodromo Argentino de Palermo - Aeroparque Jorge Newbery - Ciudad Universitaria",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"36",
+      "barrios":"",
+      "puntas":"Villa Celina - Puente de La Noria - Flores - Plaza Italia",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"37",
+      "barrios":"",
+      "puntas":"Lanus - Congreso - Palermo - Ciudad Universitaria",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"39",
+      "barrios":"",
+      "puntas":"Obelisco - Plaza Italia - Palermo - Chacarita - Constitucion - Barracas",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"41",
+      "barrios":"",
+      "puntas":"Plaza Martin Fierro - Plaza Miserere - Plaza Italia - Munro",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"42",
+      "barrios":"",
+      "puntas":"Nueva Pompeya - Ciudad Universitaria",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"44",
+      "barrios":"",
+      "puntas":"Barrancas de Belgrano - Puente Uriburu",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"45",
+      "barrios":"",
+      "puntas":"Ciudad Universitaria - Retiro - Constitucion - Lanus - Remedios de Escalada",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"46",
+      "barrios":"",
+      "puntas":"San Justo - Liniers - La Boca - Universidad Nacional de La Matanza",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"47",
+      "barrios":"",
+      "puntas":"Autodromo Oscar A. Galvez - Liniers - Chacarita",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"49",
+      "barrios":"",
+      "puntas":"Primera Junta - La Tablada - Isidro Casanova",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"50",
+      "barrios":"",
+      "puntas":"Terminal de Omnibus de Retiro - Barrio Luis Piedrabuena - Avenida Eva Perón y Avenida General Paz - Hospital Piñero",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"51",
+      "barrios":"",
+      "puntas":"Constitucion - Cañuelas - Lanus - Coronel Brandsen",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"53",
+      "barrios":"",
+      "puntas":"La Boca - Constitucion - Flores - Jose C. Paz",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"55",
+      "barrios":"",
+      "puntas":"Barrancas de Belgrano - San Justo - Don Bosco - Flores - Palermo - Barrancas de Belgrano",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"56",
+      "barrios":"",
+      "puntas":"Retiro - Ciudad Evita",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"57",
+      "barrios":"",
+      "puntas":"Palermo - Plaza Italia - Moreno - Lujan - Pilar - Capilla del Señor - Plaza Miserere - Puente Saavedra",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"59",
+      "barrios":"",
+      "puntas":"Estacion Buenos Aires - Constitucion - Obelisco - Plaza Italia - Puente Saavedra - Panamericana y San Lorenzo",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"60",
+      "barrios":"",
+      "puntas":"Barrancas de Belgrano - Puente Saavedra - San Isidro - Tigre - Escobar - Plaza Italia - Constitucion",
+      "tramos":[
+         "terminal de escobar",
+         "av 25 de mayo",
+         "25 de mayo",
+         "panamericana",
+         "colectora oeste",
+         "puente garin",
+         "fabrica ford",
+         "san isidro labrador",
+         "ruiz huidobro",
+         "congreso",
+         "monroe",
+         "av juramento",
+         "estacion belgrano c",
+         "luis maria campos",
+         "hospital militar",
+         "uriarte"
+      ],
+      "altura":[
+         "colectora este",
+         "san juan",
+         "lacroze"
+      ]
+   },
+   {
+      "linea":"61",
+      "barrios":"",
+      "puntas":"Constitucion - Plaza Miserere - Facultad de Derecho - Retiro",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"62",
+      "barrios":"",
+      "puntas":"Constitucion - Retiro - Facultad de Derecho - Plaza Miserere",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"63",
+      "barrios":"",
+      "puntas":"Barrancas de Belgrano - Villa Madero",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"64",
+      "barrios":"",
+      "puntas":"Barrancas de Belgrano - Plaza Italia - Once - Plaza de Mayo - La Boca",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"65",
+      "barrios":"",
+      "puntas":"Constitucion - Barrancas de Belgrano",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"67",
+      "barrios":"",
+      "puntas":"Hospital Rawson - Constitucion - Plaza Italia - Villa Martelli - Munro",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"68",
+      "barrios":"",
+      "puntas":"Puente Saavedra - Puente Pacifico - Plaza Italia - Plaza Miserere",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"70",
+      "barrios":"",
+      "puntas":"Retiro - Valentin Alsina",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"71",
+      "barrios":"",
+      "puntas":"Villa Adelina - Villa Urquiza - Chacarita - Plaza Miserere",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"74",
+      "barrios":"",
+      "puntas":"Correo Central - Burzaco",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"75",
+      "barrios":"",
+      "puntas":"Retiro - Tribunales - Plaza Miserere - Nueva Pompeya - Lanus - Remedios de Escalada",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"76",
+      "barrios":"",
+      "puntas":"Nueva Pompeya - Villa Soldati - Chacarita - Saavedra",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"78",
+      "barrios":"",
+      "puntas":"Chacarita - Villa Adelina",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"79",
+      "barrios":"",
+      "puntas":"Constitucion - Lomas de Zamora - Remedios de Escalada - Aeropuerto de Ezeiza - Cañuelas - San Vicente",
+      "tramos":[
+         "eva peron"
+      ],
+      "altura":[
+         "monteverde"
+      ]
+   },
+   {
+      "linea":"80",
+      "barrios":"",
+      "puntas":"Barrio Sarmiento - Villa Lugano - Liniers - Barrancas de Belgrano",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"84",
+      "barrios":"",
+      "puntas":"Villa del Parque - Constitucion",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"85",
+      "barrios":"",
+      "puntas":"Ciudadela Norte - Villa Devoto - Nueva Pompeya - Quilmes",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"86",
+      "barrios":"",
+      "puntas":"La Boca - Congreso - Primera Junta - Flores - Mercado Central - Gonzalez Catan",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"87",
+      "barrios":"",
+      "puntas":"Chacarita - Jose Leon Suarez - Boulogne - Fabrica Ford",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"88",
+      "barrios":"",
+      "puntas":"Plaza Miserere - Flores - Liniers - San Justo - Lobos - Cañuelas - General Belgrano",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"90",
+      "barrios":"",
+      "puntas":"Constitucion - Congreso - Chacarita - Villa Devoto",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"91",
+      "barrios":"",
+      "puntas":"Retiro - Constitucion - Aldo Bonzi - Villegas",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"92",
+      "barrios":"",
+      "puntas":"Retiro - Recoleta - Flores - Camino de Cintura y Av. Olimpo",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"93",
+      "barrios":"",
+      "puntas":"Munro - Palermo - Retiro - Avellaneda",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"95",
+      "barrios":"",
+      "puntas":"Avellaneda - Facultad de Medicina - Palermo - Estacion Carranza",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"96",
+      "barrios":"",
+      "puntas":"Constitucion - Flores - Liniers - San Justo - Laferrere - Gonzalez Catan - Isidro Casanova - Rafael Castillo - San Alberto - Villa Scasso",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"97",
+      "barrios":"",
+      "puntas":"Constitucion - Av. Eva Peron y Av. Gral. Paz - Gonzalez Catan - Moron",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"98",
+      "barrios":"",
+      "puntas":"Plaza Miserere - Constitucion - Berazategui - Quilmes",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"99",
+      "barrios":"",
+      "puntas":"Av. Cordoba y Madero - Tribunales - Liniers",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"100",
+      "barrios":"",
+      "puntas":"Retiro - Constitucion - Lanus",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"101",
+      "barrios":"",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"102",
+      "barrios":"",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"103",
+      "barrios":"",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"105",
+      "barrios":"",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"106",
+      "barrios":"",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"107",
+      "barrios":"",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"108",
+      "barrios":"",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"109",
+      "barrios":"",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"110",
+      "barrios":"",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"111",
+      "barrios":"",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"112",
+      "barrios":"",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"113",
+      "barrios":"",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"114",
+      "barrios":"",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"115",
+      "barrios":"",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"117",
+      "barrios":"",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"118",
+      "barrios":"",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"119",
+      "barrios":"",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"123",
+      "barrios":"",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"124",
+      "barrios":"",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"126",
+      "barrios":"",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"127",
+      "barrios":"",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"128",
+      "barrios":"",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"129",
+      "barrios":"",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"130",
+      "barrios":"",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"132",
+      "barrios":"",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"133",
+      "barrios":"",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"134",
+      "barrios":"",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"135",
+      "barrios":"",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"136",
+      "barrios":"",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"140",
+      "barrios":"",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"141",
+      "barrios":"",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"143",
+      "barrios":"",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"145",
+      "barrios":"",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"146",
+      "barrios":"",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"148",
+      "barrios":"",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"150",
+      "barrios":"",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"151",
+      "barrios":"",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"152",
+      "barrios":"",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"153",
+      "barrios":"",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"154",
+      "barrios":"",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"158",
+      "barrios":"",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"159",
+      "barrios":"",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"160 A",
+      "barrios":"",
+      "puntas":"",
+      "tramos":[
+         "ciudad universitaria",
+         "intendente guiraldes",
+         "dorrego",
+         "av dorrego",
+         "andres bello",
+         "av presidente figueroa alcorta",
+         "av figueroa alcorta",
+         "figueroa alcorta",
+         "avenida intendente bullrich",
+         "av intendente bullrich",
+         "cerviño",
+         "fray justo santa maria de oro",
+         "thames",
+         "plaza italia",
+         "av gral las heras",
+         "av las heras",
+         "scalabrini ortiz",
+         "paraguay",
+         "medrano",
+         "gorriti",
+         "castro barros",
+         "venezuela",
+         "agrelo",
+         "raulet",
+         "av saenz",
+         "dr alfredo palacios",
+         "avenida teniente general juan domingo peron",
+         "dr crotti",
+         "valparaiso",
+         "armenia",
+         "rucci",
+         "gral juan farrell",
+         "coronel erezcano",
+         "humahuaca",
+         "humberto primo",
+         "la rioja",
+         "enrique fernandez",
+         "viamonte",
+         "ruta nacional",
+         "alsina",
+         "chacabuco",
+         "av almirante brown",
+         "av eva peron",
+         "perez",
+         "espora"
+      ],
+      "altura":[
+         "av presidente figueroa alcorta",
+         "av figueroa alcorta",
+         "figueroa alcorta",
+         "de los ombues",
+         "sinclair",
+         "av gral las heras",
+         "av las heras",
+         "paraguay",
+         "soler",
+         "costa rica",
+         "medrano",
+         "cordoba",
+         "guardia vieja",
+         "av corrientes",
+         "teniente peron",
+         "castro barros",
+         "boedo",
+         "juan de garay",
+         "famatina",
+         "avenida teniente general juan domingo peron",
+         "viamonte",
+         "san martin",
+         "espora",
+         "monteverde"
+      ]
+   },
+   {
+      "linea":"160 C",
+      "barrios":"",
+      "puntas":"",
+      "tramos":[
+         "centro de transbordo lanus",
+         "centro de transbordo lanús",
+         "tucumán",
+         "tucuman",
+         "Carlos Tejedor 83",
+         "gobernador carlos tejedor 83",
+         "carlos tejedor 83",
+         "carlos tejedor 289",
+         "gobernador carlos tejedor 289",
+         "gobernador carlos tejedor 587",
+         "carlos tejedor 587",
+         "gobernador carlos casares",
+         "carlos casares",
+         "viamonte",
+         "gral viamonte",
+         "viamonte 773",
+         "viamonte 1781",
+         "canadá",
+         "canada",
+         "pilcomayo",
+         "av rivadavia",
+         "gobernador oliden",
+         "doctor ricardo balbín",
+         "ricardo balbin",
+         "boquerón",
+         "boqueron",
+         "rucci",
+         "josé ignacio rucci",
+         "jose ignacio rucci",
+         "jose ignacio rucci 1716",
+         "jose ignacio rucci 1014",
+         "jose ignacio rucci 916",
+         "jose ignacio rucci 822",
+         "itapiru",
+         "av tte gral juan domingo peron 3000",
+         "avenida teniente general juan domingo peron 3000",
+         "presidente peron",
+         "doctor jose darragueira",
+         "josé darragueira",
+         "presidente teniente general juan domingo peron 3900",
+         "palacios",
+         "av saenz",
+         "ochoa",
+         "caseros",
+         "av caseros",
+         "avenida caseros",
+         "castro",
+         "catro 2000",
+         "colombres",
+         "colombres 1594",
+         "salguero",
+         "gascon 685",
+         "gascon",
+         "araoz",
+         "araoz 2100",
+         "juncal",
+         "av gral las heras",
+         "av las heras",
+         "republica arabe siria",
+         "plaza italia",
+         "pacifico",
+         "avenida intendente bullrich",
+         "av intendente bullrich",
+         "avenida dorrego",
+         "av dorrego",
+         "avenida sarmiento",
+         "av sarmiento",
+         "av costanera rafael obligado",
+         "costanera",
+         "el abanico",
+         "pabellon 1",
+         "pabellon 2",
+         "pabellon 3",
+         "ciudad universitaria",
+         "aeroparque",
+         "av serviño",
+         "thames",
+         "paraguay",
+         "fray justo santa maria de oro"
+      ],
+      "altura":[
+         "avenida yrigoyen",
+         "av yrigoyen",
+         "viamonte",
+         "gral viamonte",
+         "jujuy",
+         "bolivia",
+         "fray julian lagos",
+         "fray julían lagos",
+         "balcarce",
+         "formosa",
+         "presidente peron",
+         "armenia",
+         "valparaiso",
+         "av remedios de escalada",
+         "avenida remedios de escalada",
+         "av saenz",
+         "caseros",
+         "av caseros",
+         "avenida caseros",
+         "av pavon",
+         "avenida pavon",
+         "av diaz velez",
+         "jeronimo salguero",
+         "gorriti",
+         "araoz",
+         "av gral las heras",
+         "av las heras",
+         "sinclair"
+      ]
+   },
+   {
+      "linea":"160 L",
+      "barrios":"",
+      "puntas":"",
+      "tramos":[
+         "centro de transbordo lanus",
+         "centro de transbordo lanús",
+         "tucumán",
+         "tucuman",
+         "Carlos Tejedor 83",
+         "gobernador carlos tejedor 83",
+         "carlos tejedor 83",
+         "carlos tejedor 289",
+         "gobernador carlos tejedor 289",
+         "gobernador carlos tejedor 587",
+         "carlos tejedor 587",
+         "gobernador carlos casares",
+         "carlos casares",
+         "viamonte",
+         "gral viamonte",
+         "viamonte 773",
+         "viamonte 1781",
+         "canadá",
+         "canada",
+         "pilcomayo",
+         "av rivadavia",
+         "gobernador oliden",
+         "doctor ricardo balbín",
+         "ricardo balbin",
+         "boquerón",
+         "boqueron",
+         "rucci",
+         "josé ignacio rucci",
+         "jose ignacio rucci",
+         "jose ignacio rucci 1716",
+         "jose ignacio rucci 1014",
+         "jose ignacio rucci 916",
+         "jose ignacio rucci 822",
+         "itapiru",
+         "av tte gral juan domingo peron 3000",
+         "avenida teniente general juan domingo peron 3000",
+         "presidente peron",
+         "doctor jose darragueira",
+         "josé darragueira",
+         "presidente teniente general juan domingo peron 3900",
+         "palacios",
+         "av saenz",
+         "ochoa",
+         "caseros",
+         "av caseros",
+         "avenida caseros",
+         "castro",
+         "catro 2000",
+         "colombres",
+         "colombres 1594",
+         "salguero",
+         "gascon 685",
+         "gascon",
+         "araoz",
+         "araoz 2100",
+         "juncal",
+         "av gral las heras",
+         "av las heras",
+         "republica arabe siria",
+         "plaza italia",
+         "pacifico",
+         "avenida intendente bullrich",
+         "av intendente bullrich",
+         "avenida dorrego",
+         "av dorrego",
+         "avenida sarmiento",
+         "av sarmiento",
+         "av costanera rafael obligado",
+         "costanera",
+         "el abanico",
+         "pabellon 1",
+         "pabellon 2",
+         "pabellon 3",
+         "ciudad universitaria"
+      ],
+      "altura":[
+         "avenida yrigoyen",
+         "av yrigoyen",
+         "viamonte",
+         "gral viamonte",
+         "jujuy",
+         "bolivia",
+         "fray julian lagos",
+         "fray julían lagos",
+         "balcarce",
+         "formosa",
+         "presidente peron",
+         "armenia",
+         "valparaiso",
+         "av remedios de escalada",
+         "avenida remedios de escalada",
+         "av saenz",
+         "caseros",
+         "av caseros",
+         "avenida caseros",
+         "av pavon",
+         "avenida pavon",
+         "av diaz velez",
+         "jeronimo salguero",
+         "gorriti",
+         "araoz",
+         "av gral las heras",
+         "av las heras"
+      ]
+   },
+   {
+      "linea":"161",
+      "barrios":"",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"163",
+      "barrios":"",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"164",
+      "barrios":"",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"165",
+      "barrios":"",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"166",
+      "barrios":"",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"168",
+      "barrios":"",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"169",
+      "barrios":"",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"172",
+      "barrios":"",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"174",
+      "barrios":"",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"175",
+      "barrios":"",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"176",
+      "barrios":"",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"177",
+      "barrios":"",
+      "puntas":"",
+      "tramos":[
+         "ricardo rojas",
+         "tomas espora",
+         "eva peron",
+         "avenida eva peron",
+         "monteverde",
+         "figueroa",
+         "manuel araujo",
+         "iglesias paz",
+         "rio bermejo"
+      ],
+      "altura":[
+         "amancio alcorta",
+         "monteverde",
+         "ruta provincial",
+         "italia",
+         "mercedes",
+         "carlos gardel",
+         "apecechea",
+         "fernando ochoa",
+         "montiel",
+         "martin fierro",
+         "villafañe",
+         "lavarden",
+         "estanislao del campo",
+         "el baqueano",
+         "luis viale",
+         "concordia",
+         "pablo podesta",
+         "manuel araujo",
+         "rio diamante",
+         "eva peron",
+         "avenida eva peron",
+         "rio limay"
+      ]
+   },
+   {
+      "linea":"178",
+      "barrios":"",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"179",
+      "barrios":"",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"180",
+      "barrios":"",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"181",
+      "barrios":"",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"182",
+      "barrios":"",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"184",
+      "barrios":"",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"185",
+      "barrios":"",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"188",
+      "barrios":"",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"193",
+      "barrios":"",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"194",
+      "barrios":"",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"195",
+      "barrios":"",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"200",
+      "barrios":"",
+      "puntas":"",
+      "tramos":[
+         "avellaneda",
+         "sarmiento",
+         "campbell",
+         "avenida presidente hipolito yrigoyen",
+         "avenida hipolito yrigoyen",
+         "avenida yrigoyen",
+         "av yrigoyen",
+         "capitan olivera",
+         "cordoba",
+         "castelli",
+         "santa elena",
+         "islas malvinas",
+         "av de las americas",
+         "españa",
+         "ruta provincial",
+         "mexico",
+         "av antartida",
+         "san salvador",
+         "atenas",
+         "camino real",
+         "honduras",
+         "uruguay",
+         "brasil",
+         "estacion alejandro korn",
+         "aviador valdez 23",
+         "av independencia",
+         "avenida independencia",
+         "reconquista",
+         "ruta 210",
+         "calle 807"
+      ],
+      "altura":[
+         "avenida yrigoyen",
+         "av yrigoyen",
+         "avenida presidente hipolito yrigoyen",
+         "avenida hipolito yrigoyen",
+         "san juan",
+         "av eva duarte de peron",
+         "calle 25",
+         "av francia",
+         "san miguel del monte",
+         "mansilla",
+         "av independencia",
+         "avenida independencia",
+         "obligado",
+         "san vicente",
+         "calle 809"
+      ]
+   },
+   {
+      "linea":"202",
+      "barrios":"",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"203",
+      "barrios":"",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"204 A",
+      "barrios":"",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"204 B",
+      "barrios":"",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"205",
+      "barrios":"",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"218",
+      "barrios":"",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"219",
+      "barrios":"",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"228 A",
+      "barrios":"",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"228 B",
+      "barrios":"",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"228 D",
+      "barrios":"",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"228 E",
+      "barrios":"",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"228 F",
+      "barrios":"",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"236",
+      "barrios":"",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"237",
+      "barrios":"",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"238",
+      "barrios":"",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"242",
+      "barrios":"",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"244",
+      "barrios":"",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"247",
+      "barrios":"",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"252",
+      "barrios":"",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"253",
+      "barrios":"",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"257",
+      "barrios":"",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"263",
+      "barrios":"",
+      "puntas":"",
+      "tramos":[
+         "eva peron"
+      ],
+      "altura":[
+         "monteverde"
+      ]
+   },
+   {
+      "linea":"266",
+      "barrios":"",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"269",
+      "barrios":"",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"271",
+      "barrios":"",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"273",
+      "barrios":"",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"275",
+      "barrios":"",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"276",
+      "barrios":"",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"277",
+      "barrios":"",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"278",
+      "barrios":"",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"281",
+      "barrios":"",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"283",
+      "barrios":"",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"284",
+      "barrios":"",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"288",
+      "barrios":"",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"291",
+      "barrios":"",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"293",
+      "barrios":"",
+      "puntas":"",
+      "tramos":[
+         "eva peron"
+      ],
+      "altura":[
+         "monteverde"
+      ]
+   },
+   {
+      "linea":"295",
+      "barrios":"",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"298",
+      "barrios":"",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"299",
+      "barrios":"",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"300",
+      "barrios":"",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"302",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"303",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"306",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"307",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"310",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"311",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"312",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"314",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"315",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"317",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"318",
+      "puntas":"",
+      "tramos":[
+         "eva peron",
+         "avenida eva peron",
+         "avenida eva peron 3019",
+         "eva peron 3019",
+         "avenida eva peron 1900",
+         "eva peron 1900",
+         "avenida eva peron 1388",
+         "eva peron 1388",
+         "rio limay 80",
+         "esquiu",
+         "aristobulo del valle",
+         "aristóbulo del valle",
+         "paso",
+         "rio diamante 2652",
+         "río diamante 2652",
+         "manuel araujo",
+         "figueroa"
+      ],
+      "altura":[
+         "monteverde",
+         "leandro n alem",
+         "leandro n. alem",
+         "paso",
+         "camino de cintura"
+      ]
+   },
+   {
+      "linea":"320",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"321",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"324",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"325",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"326",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"327",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"328",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"329",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"333",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"336",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"338",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"341",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"343",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"354",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"365",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"371",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"372",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"373",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"378",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"379",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"382",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"384",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"386",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"390",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"391",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"392",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"395",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"405",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"406",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"407",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"410",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"421",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"422",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"429",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"430",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"435",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"437",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"441",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"446",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"461",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"462",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"463",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"464",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"500",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"501",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"503",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"504",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"505",
+      "puntas":"",
+      "tramos":[
+         "eva peron"
+      ],
+      "altura":[
+         "monteverde"
+      ]
+   },
+   {
+      "linea":"506",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"514",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"520",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"521",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"523",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"524",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"526",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"527",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"532",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"540",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"541",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"542",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"543",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"548",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"549",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"550",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"551",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"552",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"553",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"561",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"562",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"564",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   },
+   {
+      "linea":"570",
+      "puntas":"",
+      "tramos":[
+         
+      ],
+      "altura":[
+         
+      ]
+   }
+]

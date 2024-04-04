@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html>
+<head>
+     <meta charset="utf-8">
+     <title></title>
+     <link rel="stylesheet" type="text/css" href="css/estilo.css">
+     <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css">
+     <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+     <!-- <link rel="icon" type="images/png" href="images/logo.webp"> -->
+</head>
+ <body>
+          <nav>
+               <p class="marca"><i>🗾<b> mapa.com</b></i></p>
+               <div class="nav">
+               </div>
+          </nav>
+
+<div class="total">
+
+  <!------------------------------------ HALF A ------------------------------------>
+  <!------------------------------------ HALF A ------------------------------------>
+  <div class="half-a">
+     
+          <div class="part-uno">
+          <p class="marcaBien"><i>🗾<b> mapa.com</b></i></p>
+          </div>
+
+          
+  </div> <!-- half -->
+
+  <!------------------------------------ HALF B ------------------------------------>
+  <!------------------------------------ HALF B ------------------------------------>
+  <div class="half-b">
+     <!----------- registro ------------->
+     <!----------- registro ------------->
+     <div class="whole-form-cont">
+
+       <div class="regsFORM" id="regsForm">
+          <p class="regs-titu">Registrate</p>
+
+          <form id="form">
+
+               <!---------- nombre ---------->
+               <div class="" id="">
+                <label for="nombre"><b>Nombre</b></label>
+                <div>
+                  <input class="input-regs" placeholder=" Nombre" type="" name="nombre" id="nombre">
+                </div>
+                <p class="corr" id="errA"><b>Error: </b>El nombre debe contener más de 1 caracter y solo deben ser letras.</p>
+               </div>
+
+               <!---------- apellido ---------->
+               <div class="" id="">
+                    <label for="apellido"><b>Apellido</b></label>
+                    <div>
+                      <input class="input-regs" placeholder=" Apellido" type="" name="apellido" id="apellido">
+                    </div>
+                    <p class="corr" id="errB"><b>Error: </b>El apellido debe contener más de 2 caracteres y solo deben ser letras.</p>
+                   </div>
+
+               <!---------- contraseña ---------->
+               <div class="" id="">
+                    <label for="passInput"><b>Crea una contraseña</b></label>
+                    <div>
+                         <input class="input-regs" placeholder=" Ingrese contraseña" type="password" name="password" id="passInput">
+                    </div>
+                    <p class="corr" id="errC"><b>Error: La contraseña debe tener al menos 4 caracteres.</b></p>
+               </div>
+
+               <!---------- validar contraseña ---------->
+               <div class="" id="">
+                    <label for="conInput"><b>Ingrese la misma contraseña</b></label>
+                    <div>
+                         <input class="input-regs" placeholder=" Ingrese contraseña" type="password" name="passConf" id="conInput">
+                    </div>
+                    <p class="corr" id="errD"><b>Error: </b>La contraseña debe ser identica a la que acabas de crear.</p>
+               </div>
+
+               <input type="submit" class="regs-btn" id="regsBtn" value="Registrarse">
+               <div class="" id="cargando"></div>
+               <div class="llenaCampos" id="llena"></div>
+          </form>
+
+          <div class="ya-cont">
+          <p>¿Ya tienes cuenta?</p>
+          <button class="in-btn" id="iniciaBtn">Inicia sesión</button>
+          </div>
+
+       </div>
+
+     <!---------- inicio sesión ----------->
+     <!---------- inicio sesión ----------->
+       <div class="inicioFORM" id="inicioForm">
+          <p class="regs-titu">Inicia sesión</p>
+          <form action="" class="" id="formUser">
+
+               <!---------- usuario (sesión) ----------->
+               <div class="" id="">
+                <label for="usuario"><b>Usuario</b></label>
+                <div>
+                  <input class="input-regs" placeholder="Usuario" type="" name="" id="usuario">
+                </div>
+                <p class="corr" id="errE"><b>Error: </b>Este usuario no existe.</p>
+               </div>
+
+               <input type="submit" class="regs-btn" id="" value="Iniciar sesión">
+               <div id="cargaSesion"></div>
+               <div class="llenaCampos" id="completa"></div>
+          </form>
+
+          <p>¿Aún no tienes cuenta?</p>
+          <button class="in-btn" id="registrarBtn">Registrate</button>
+       </div>
+
+     </div>
+  </div> <!-- half -->
+
+</div>  <!-- total -->
+
+          <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/toastify-js"></script>
+          <script src="js/main.js"></script>
+          <script src="js/perfil.html"></script>
+ </body>
+</html>
